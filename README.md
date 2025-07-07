@@ -5,7 +5,7 @@ A modern, voice-enabled chat interface that integrates with Google's Gemini API 
 ## Features
 
 - **Clean Chat Interface**: Modern, responsive design with smooth animations
-- **MindMitra AI Integration**: Powered by Google's Gemini 1.5 Flash for intelligent responses
+- **MindMitra AI Integration**: Powered by Google's Gemini 2.0 Flash for intelligent responses
 - **Voice Input**: Click the microphone to speak your message
 - **Text-to-Speech**: AI responses are automatically read aloud
 - **Responsive Design**: Works perfectly on desktop and mobile devices
