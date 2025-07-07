@@ -1,6 +1,6 @@
 class VoiceChatApp {
     constructor() {
-        this.apiKey = 'AIzaSyDGkmolMUMldBhCDE5jkbwfDX37kYn8_J0'; // Pre-configured API key
+        this.apiKey = ''; // Pre-configured API key
         this.recognition = null;
         this.synthesis = window.speechSynthesis;
         this.isListening = false;
